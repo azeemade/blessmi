@@ -2,7 +2,7 @@
     <div class="mb-8 px-4">
         <div class="">
             <p class="text-xl font-bold text-161722 mb-2">Fundraiser On Social Media</p>
-            <div class="flex space-x-4 text-577387">
+            <div class="flex space-x-4 text-577387 text-xl">
                 <i class="bi bi-facebook"></i>
                 <i class="bi bi-instagram"></i>
                 <i class="bi bi-twitter"></i>

@@ -5,7 +5,8 @@
         </div>  
         <div class="bg-white grid grid-cols-3 gap-6 p-12">
             <div class="col-span-2 px-12">
-                <div class="border border-E2E8F0">
+                <img src="../assets/gWedi4SWsHQ.png" />
+                <div class="border border-E2E8F0 rounded-b-lg">
                     <Jumbotron />
                     <InfoNav />
                     <Footer />
